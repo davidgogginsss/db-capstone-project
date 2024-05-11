@@ -59,3 +59,4 @@ CALL CancelBooking(9);
 
 SELECT *
 FROM Bookings;
+
